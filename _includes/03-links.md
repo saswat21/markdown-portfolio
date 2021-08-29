@@ -1,1 +1,1 @@
-my linked link https://www.linkedin.com
+[my linked link] (https://linkedin.com)
